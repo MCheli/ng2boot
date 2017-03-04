@@ -1,1 +1,1 @@
-msg: "Hello from production"
+msg: ${msg}
